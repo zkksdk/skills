@@ -1,0 +1,16 @@
+# Ignore large files and project-specific dirs
+agenthub/
+agenthub-modifications-report.md
+ai-assistant-package.tar.gz
+userspace/
+deploy-package/
+*.tar.gz
+
+# OpenClaw runtime (local to each instance)
+.openclaw/logs/
+.openclaw/.cache/
+.clawhub/
+
+# OS
+.DS_Store
+*.log
