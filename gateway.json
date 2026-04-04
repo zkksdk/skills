@@ -1,0 +1,12 @@
+{
+  "agents": {
+    "tester": {
+      "model": "minimax/MiniMax-M2.7",
+      "description": "AgentHub前端测试员"
+    },
+    "architect": {
+      "model": "minimax/MiniMax-M2.7",
+      "description": "AgentHub项目设计师"
+    }
+  }
+}
